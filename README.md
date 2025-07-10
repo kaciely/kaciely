@@ -1,4 +1,6 @@
-## kaciely👋
+##  👩🏻‍💻 kaciely👋
+
+**`Tecnica em TI`**
 
 Me chamo Kaciely xavier Dias, tenho 18 anos e sou natural de Minas Gerais. Estou concluíndo o ensino médio , com o curso técnico em tecnologia para internet.  Sou apaixonada por tecnologia e estou ingresando como programadora junio. Meu linkdin "kaciely xavier[(https://www.linkedin.com/in/kaciely-kaci-a0234b374/).]"
 <!-- BADGES DE REDES SOCIAIS -->
@@ -21,7 +23,7 @@ Me chamo Kaciely xavier Dias, tenho 18 anos e sou natural de Minas Gerais. Estou
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens 
 
 <img 
   align="left" 
